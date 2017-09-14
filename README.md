@@ -5,7 +5,7 @@
 <a href="https://perso.telecom-paristech.fr/eagan/class/advUI/">Advanced Programming of Interactive Systems</a></br>
 <a href="">Evaluation of Interactive Systems</a></br>
 <a href="">Design of Interactive Systems</a></br>
-<a href="">Career Seminar</a></br>
+<a href="https://www.lri.fr/~anab/teaching/CareerSeminar2017/">Career Seminar</a></br>
 <a href="">TODO</a></br>
 <a href="">TODO</a></br>
 <a href="">TODO</a></br>
